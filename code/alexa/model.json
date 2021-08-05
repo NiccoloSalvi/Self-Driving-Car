@@ -1,0 +1,86 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "guida autonoma",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "help"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "startIntent",
+                    "slots": [],
+                    "samples": [
+                        "parti",
+                        "di partire"
+                    ]
+                },
+                {
+                    "name": "fermaIntent",
+                    "slots": [],
+                    "samples": [
+                        "ferma",
+                        "fine corsa",
+                        "fermati",
+                        "di fermarsi"
+                    ]
+                },
+                {
+                    "name": "getSpeedIntent",
+                    "slots": [],
+                    "samples": [
+                        "a quale velocità stiamo viaggiando",
+                        "la velocità attuale",
+                        "quale è la velocità attuale"
+                    ]
+                },
+                {
+                    "name": "acceleroIntent",
+                    "slots": [],
+                    "samples": [
+                        "di accelerare",
+                        "aumenta la velocità",
+                        "accelera"
+                    ]
+                },
+                {
+                    "name": "deceleroIntent",
+                    "slots": [],
+                    "samples": [
+                        "rallenta",
+                        "dimunuisci velocità",
+                        "decelera"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
