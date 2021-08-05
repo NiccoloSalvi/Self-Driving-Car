@@ -1,8 +1,10 @@
 # Self Driving Car
 
+<p float="left" align="center">
   <img src="https://user-images.githubusercontent.com/35506589/128388306-b30f96da-f43a-4535-a9a4-88c68a267dd3.png" height="40%" width="40%" >
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/35506589/128388306-b30f96da-f43a-4535-a9a4-88c68a267dd3.png" height="40%" width="40%" >
-
+</p>
 
 
 ## Introduction
