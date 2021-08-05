@@ -1,5 +1,8 @@
 # Self Driving Car
 
+![SDC](https://user-images.githubusercontent.com/35506589/128388306-b30f96da-f43a-4535-a9a4-88c68a267dd3.png)
+
+
 ## Introduction
 Self Driving Car is the implementation of a vehicle capable of moving independently and taking decisions to recognize specific road signs, through the use of intelligence and vision techniques artificial.
 
