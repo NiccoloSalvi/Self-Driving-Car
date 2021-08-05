@@ -14,7 +14,7 @@ The thesis that explains the project in detail is accessible at the following [l
 
 ## Videos
 <ul>
-  <li> The video that shows, section by section, the operation of the project is accessible at the following <a href src="https://youtu.be/6PDmYAtLAKQ">link</a>.
+  <li> The video that shows, section by section, the operation of the project is accessible at the following <a href="https://youtu.be/6PDmYAtLAKQ">link</a>.
   <li> The video showing the entire operation of the project is accessible at the following <a href="https://youtu.be/jZnowjwQgR8">link</a>.
 </ul>
 
