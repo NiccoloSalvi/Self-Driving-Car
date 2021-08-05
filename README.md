@@ -1,7 +1,6 @@
 # Self Driving Car
 
--- ![SDC](https://user-images.githubusercontent.com/35506589/128388306-b30f96da-f43a-4535-a9a4-88c68a267dd3.png)
-<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/35506589/128388306-b30f96da-f43a-4535-a9a4-88c68a267dd3.png" align="left" height="48" width="48" ></a>
 
 
 
