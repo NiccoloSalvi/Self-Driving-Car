@@ -5,3 +5,7 @@ Self Driving Car is the implementation of a vehicle capable of moving independen
 
 ## Thesis
 The thesis that explains the project in detail is accessible at the following [link](tesi/tesi.pdf).
+
+## Dataset
+To get the dataset that was used to train the neural network just contact me and I'll send to you.
+
