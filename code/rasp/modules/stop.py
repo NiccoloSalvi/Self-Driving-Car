@@ -1,5 +1,5 @@
 # Stop Signal Recognition
-    ## Link to yt video:  
+    ## Link to yt video: https://youtu.be/6PDmYAtLAKQ?t=179
 
 import sys
 import os
