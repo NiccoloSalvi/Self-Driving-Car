@@ -1,5 +1,5 @@
 # Lane Detection & Following - Subtraction
-    ## Link to yt video:  
+    ## Link to yt video: https://youtu.be/6PDmYAtLAKQ?t=12
 
 import sys
 
